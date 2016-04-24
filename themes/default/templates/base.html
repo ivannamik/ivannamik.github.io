@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+    <meta charset="utf-8" />
+    <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
+</head>
+
+<body id="index" class="home">
+    <header id="banner" class="body">
+        <nav><ul>
+            {% for pg in PAGES %}
+            <li{% if pg == page %} class="active"{% endif %}>
+            <a href="{{ SITEURL }}/{% if pg.url != "intro" %}{{ pg.url }}{% endif %}">
+            {{ pg.title }}
+            </a></li>
+            {% endfor %}
+        </ul></nav>
+    </header>
+
+    {% block content %}
+    {% endblock %}
+
+    {% include 'analytics.html' %}
+</body>
+</html>
