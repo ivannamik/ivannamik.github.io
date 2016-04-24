@@ -1,0 +1,5 @@
+pelican
+markdown
+pillow
+beautifulsoup4
+
