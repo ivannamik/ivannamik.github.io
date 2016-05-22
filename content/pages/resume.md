@@ -57,7 +57,7 @@ VFX education
 =============
 
 ## **3D Animation and Visual Effects Program (Diploma with Honours)**, major in Visual Effects, Vancouver Film School
-Apr 2012 – Apr 2013
+Apr 2012 - Apr 2013
 
 **Nuke**: roto and paint, 2D/3D tracking, camera projections and set extensions, integration;  
 **Maya**: modeling, texturing, shading, lighting, animation, rigging, camera projections and set extensions; basic knowledge of Maya fluids and dynamics;  
