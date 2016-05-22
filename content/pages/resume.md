@@ -4,7 +4,7 @@ Ivanna Mikhaylova
 =================
 Compositor/Roto and Paint Artist  
 [hire.me@ivanna.ca](mailto:hire.me@ivanna.ca "Drop me a line") -- (604) 338-4089  
-[ivanna.ca](ivanna.ca) -- [IMDb profile](http://www.imdb.com/name/nm6581754)  
+[ivanna.ca](//ivanna.ca) -- [IMDb profile](http://www.imdb.com/name/nm6581754)  
 BC resident, authorized to work in Canada for any employer
 
 <br />
