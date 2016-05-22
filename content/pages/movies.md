@@ -2,6 +2,7 @@ Title: Movies
 
 [My IMDb profile](http://www.imdb.com/name/nm6581754)
 
+[![Jungle Book][tt3040964_img]][tt3040964]
 [![Batman v Superman: Dawn of Justice][tt2975590_img]][tt2975590]
 [![The Hunger Games: Mockingjay - Part 2][tt1951266_img]][tt1951266]
 [![Pan][tt3332064_img]][tt3332064]
@@ -17,6 +18,7 @@ Title: Movies
 [![I, Frankenstein][tt1418377_img]][tt1418377]
 [![The Legend of Hercules][tt1043726_img]][tt1043726]
 
+[tt3040964_img]: {filename}/media/2016-jungle_book.jpg
 [tt2975590_img]: {filename}/media/2016-batman_v_superman_-_dawn_of_justice.jpg
 [tt1951266_img]: {filename}/media/2015_the_hunger_games_-_mockingjay_(Part_2).jpg
 [tt3332064_img]: {filename}/media/2015-pan.jpg
@@ -32,6 +34,7 @@ Title: Movies
 [tt1418377_img]: {filename}/media/2014-i,_frankenstein.jpg
 [tt1043726_img]: {filename}/media/2014-the_legend_of_hercules.jpg
 
+[tt3040964]: http://www.imdb.com/title/tt3040964
 [tt2975590]: http://www.imdb.com/title/tt2975590
 [tt1951266]: http://www.imdb.com/title/tt1951266
 [tt3332064]: http://www.imdb.com/title/tt3332064

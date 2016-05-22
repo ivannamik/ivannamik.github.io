@@ -15,11 +15,13 @@ Industry work experience
 ## **Compositor**, Gener8 in Vancouver, BC
 November 2014 - present  
 
-- Composite stereo shots and create clean plates, which includes multiple compositing tasks: colour correction, matching grain and focus, matte extraction/keying, roto, tracking, projections, paint, etc.  
-- Give depth to 2d FX renders and practical elements (particles, smokes, flares, etc.)  
-- Assisted Extraction team with elements break out in VFX vendor comps on an unannounced 2016 project.  
+- Composite stereo shots and create clean plates, which includes multiple compositing tasks: colour correction, matching grain and focus, matte extraction/keying, roto, tracking, projections, paint, etc.;  
+- Give depth to 2d FX renders and practical elements (particles, smokes, flares, etc.);  
+- Assisted Extraction team with elements break out in VFX vendor comps on an unannounced 2016 project;  
+- Blue screen prep and keying for Jungle Book.
 
 Unannounced projects coming out in 2016  
+Jungle Book (2016)  
 Batman v Superman: Dawn of Justice (2016)  
 The Hunger Games: Mocking Jay - Part 2 (2015)  
 Pan (2015)  
