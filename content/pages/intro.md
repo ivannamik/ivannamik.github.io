@@ -12,5 +12,5 @@ of movie-making. Currently I am a Compositor at Gener8, a stereo conversion comp
 
 Have a look around, check out my reel and other works that I did. 
 
-Updated reel coming soon, so feel free to drop by every once in a while :)
+I'm updating my reel periodically, so feel free to drop by every once in a while :)
 
