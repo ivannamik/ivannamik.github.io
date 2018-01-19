@@ -12,15 +12,25 @@ BC resident, authorized to work in Canada for any employer
 Industry work experience
 ========================
 
+## **Roto/Paint Artist**, Digital Domain in Vancouver, BC
+October 2016 – January 2017, November 2017
+
+- Restored background images by creating clean plates for shots of varying complexity and frame range (camera and rig removals, head removal);
+- Rotoscoped (final quality and temp quality tasks as required).
+
+Unreleased Title (2018)  
+The Fate of the Furious (2017)  
+
 ## **Compositor**, Gener8 in Vancouver, BC
-November 2014 - present  
+November 2014 - October 2016
 
-- Composite stereo shots and create clean plates, which includes multiple compositing tasks: colour correction, matching grain and focus, matte extraction/keying, roto, tracking, projections, paint, etc.;  
-- Give depth to 2d FX renders and practical elements (particles, smokes, flares, etc.);  
-- Assisted Extraction team with elements break out in VFX vendor comps on an unannounced 2016 project;  
-- Blue screen prep and keying for Jungle Book.
+- Composited stereo shots and create clean plates, which includes multiple compositing tasks: colour correction, matching grain and focus, matte extraction/keying, roto, 2d/3d tracking and stabilization, projections, paint, warping and transforming elements, etc.;
+- Made 2d FX renders and practical elements (particles, smokes, flares, etc.) stereo;
+- For Jungle Book did blue screen extractions.
 
-Unannounced projects coming out in 2016  
+The Great Wall (2016)  
+Suicide Squad (2016)  
+The Legend of Tarzan (2016)  
 Alice Through the Looking Glass (2016)  
 Jungle Book (2016)  
 Batman v Superman: Dawn of Justice (2016)  

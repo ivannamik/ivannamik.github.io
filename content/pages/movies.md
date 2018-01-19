@@ -2,6 +2,9 @@ Title: Movies
 
 [My IMDb profile](http://www.imdb.com/name/nm6581754)
 
+[![The Fate of the Furious][tt4630562_img]][tt4630562]
+[![Suicide Squad][tt1386697_img]][tt1386697]
+[![The Great Wall][tt2034800_img]][tt2034800]
 [![Alice Through the Looking Glass][tt2567026_img]][tt2567026]
 [![Jungle Book][tt3040964_img]][tt3040964]
 [![Batman v Superman: Dawn of Justice][tt2975590_img]][tt2975590]
@@ -19,6 +22,9 @@ Title: Movies
 [![I, Frankenstein][tt1418377_img]][tt1418377]
 [![The Legend of Hercules][tt1043726_img]][tt1043726]
 
+[tt4630562_img]: {filename}/media/2017-the_fate_of_the_furious.jpg
+[tt1386697_img]: {filename}/media/2016-suicide_squad.jpg
+[tt2034800_img]: {filename}/media/2016-the_great_wall.jpg
 [tt2567026_img]: {filename}/media/2016-alice_through_the_looking_glass.jpg
 [tt3040964_img]: {filename}/media/2016-jungle_book.jpg
 [tt2975590_img]: {filename}/media/2016-batman_v_superman_-_dawn_of_justice.jpg
@@ -36,6 +42,9 @@ Title: Movies
 [tt1418377_img]: {filename}/media/2014-i,_frankenstein.jpg
 [tt1043726_img]: {filename}/media/2014-the_legend_of_hercules.jpg
 
+[tt4630562]: http://www.imdb.com/title/tt4630562
+[tt1386697]: http://www.imdb.com/title/tt1386697
+[tt2034800]: http://www.imdb.com/title/tt2034800
 [tt2567026]: http://www.imdb.com/title/tt2567026
 [tt3040964]: http://www.imdb.com/title/tt3040964
 [tt2975590]: http://www.imdb.com/title/tt2975590
