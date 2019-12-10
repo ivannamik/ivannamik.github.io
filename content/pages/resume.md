@@ -12,13 +12,33 @@ BC resident, authorized to work in Canada for any employer
 Industry work experience
 ========================
 
+## Maternity leave
+September 2018 - present
+
+## **Paint and Roto Artist**, CoSA VFX
+March 2018 - June 2018
+
+- Created clean plates for shots of varying complexity and frame range (rig and object removals);  
+- Performed rotoscoping;  
+- Occasionally did compositing tasks. 
+
+Gotham (TV Series)  
+Lethal Weapon (TV Series)  
+Westworld (TV Series)  
+Lucifer (TV Series)  
+Rosewell, New Mexico (TV Series)  
+Life Sentence (TV Series)
+
+## Maternity leave
+February 2017 - February 2018
+
 ## **Roto/Paint Artist**, Digital Domain in Vancouver, BC
-October 2016 – January 2017, November 2017
+October 2016 - January 2017, November 2017
 
 - Restored background images by creating clean plates for shots of varying complexity and frame range (camera and rig removals, head removal);
 - Rotoscoped (final quality and temp quality tasks as required).
 
-Unreleased Title (2018)  
+Ready Player One (2018)  
 The Fate of the Furious (2017)  
 
 ## **Compositor**, Gener8 in Vancouver, BC
