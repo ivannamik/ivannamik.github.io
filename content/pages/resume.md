@@ -12,8 +12,68 @@ BC resident, authorized to work in Canada for any employer
 Industry work experience
 ========================
 
-## Maternity leave
-September 2018 - present
+## **Paint and Roto Lead and Artist**, Scanline VFX, Vancouver, BC
+May 2020 - September 2023
+
+**Roto and Paint Lead** (August 2021 - September 2023)
+
+- Performed quality control of paint and roto work on internal and external tasks, provided detailed and comprehensive feedback.
+- Participated in planning and spotting of work on the shows, estimated roto and paint work on shows.
+- Communicated with Production to ensure paint and roto meets deadlines.
+- Provided direction and guidance with paint and roto workflows and approaches.
+- Mentored new roto and paint artists.
+
+Lead:
+
+The Gray Man (2022)  
+Nyad (2023)  
+
+Assisted as Lead on:
+
+Joker: Folie a Deux (2024)  
+Avatar: the Last Airbender (Netflix Series, S1)  
+3 Body Problem (Netflix Series, S1)  
+Beverly Hills Cop Axel F (2024)  
+Aquaman and the Lost Kingdom (2023)  
+Yu Yu Hakusho (TV series S1)  
+Meg 2: the Trench (2023)  
+Shadow and Bone (TV Series, S2)  
+
+**Paint and Roto Artist** (May 2020 - September 2021)
+
+- Created clean plates for shots of varying complexity and frame range.
+- Character and animation restoration for large FG objects removal.
+- Cleaned up shots for virtual production.
+- Did beauty cleanup and retouching.
+- Rotoscoped.
+
+Aquaman and the Lost Kingdom (2023)  
+The Flash (2023)  
+The Adam Project (2022)  
+Moonfall (2022)  
+The Batman (2022)  
+The Suicide Squad (2021)  
+Don’t Look Up (2021)  
+Cowboy Beebop (Netflix Series 2021)  
+Shang-Chi & the Legend of the 10 Rings (2021)  
+Reminiscence (2021)  
+The Nevers (HBO TV Series)  
+
+## **Compositor**, CoSA VFX, Vancouver, BC
+February 2020 - April 2020
+
+- Composited shots of varying complexity;
+- Created clean plates, mattes, and rotoscoped when necessary.
+
+Julie and the Phantoms (S1 E1-E5)  
+
+## **Paint Artist**, ILM, Vancouver, BC
+January 2020 - February 2020
+
+- Clean plates and tracker removal.
+
+Space Jam 2  
+Unannounced title  
 
 ## **Paint and Roto Artist**, CoSA VFX
 March 2018 - June 2018
@@ -28,9 +88,6 @@ Westworld (TV Series)
 Lucifer (TV Series)  
 Rosewell, New Mexico (TV Series)  
 Life Sentence (TV Series)
-
-## Maternity leave
-February 2017 - February 2018
 
 ## **Roto/Paint Artist**, Digital Domain in Vancouver, BC
 October 2016 - January 2017, November 2017
