@@ -51,9 +51,9 @@ Title: Movies
 [![I, Frankenstein][tt1418377_img]][tt1418377]
 [![The Legend of Hercules][tt1043726_img]][tt1043726]
 
-[tt6604188]: {filename}/media/2025-tron-ares.jpg
-[tt31036941]: {filename}/media/2025-jurassic-world-rebirth.jpg
-[tt11655566]: {filename}/media/2025-lilo-and-stitch.jpg
+[tt6604188_img]: {filename}/media/2025-tron-ares.jpg
+[tt31036941_img]: {filename}/media/2025-jurassic-world-rebirth.jpg
+[tt11655566_img]: {filename}/media/2025-lilo-and-stitch.jpg
 [tt1649418_img]: {filename}/media/2022-the_gray_man.jpg
 [tt5302918_img]: {filename}/media/2023-nyad.jpg
 [tt11315808_img]: {filename}/media/2024-joker.jpg
