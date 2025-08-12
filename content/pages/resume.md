@@ -12,6 +12,19 @@ BC resident, authorized to work in Canada for any employer
 Industry work experience
 ========================
 
+## **Senior Digital Paint Artist**, ILM Vancouver, Vancouver, BC
+December 2024 - September 2025, projected
+
+- Created clean plates for varying complexity shots.
+- Cleaned up wires, set equipment, crew, markers, unwanted elements.
+- Removed objects, characters, stand-ins, and props for CG replacement.
+- Rotoscoped.
+
+Lilo & Stitch (2025)
+Jurassic World: Rebirth (2025)
+TRON: Ares (2025)
+Various unannounced projects
+
 ## **Paint and Roto Lead and Artist**, Scanline VFX, Vancouver, BC
 May 2020 - September 2023
 

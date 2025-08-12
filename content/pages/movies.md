@@ -2,6 +2,9 @@ Title: Movies
 
 [My IMDb profile](http://www.imdb.com/name/nm6581754)
 
+[![Tron: Ares][tt6604188_img]][tt6604188]
+[![Jurassic World: Rebirth][tt31036941_img]][tt31036941]
+[![Lilo & Stitch][tt11655566_img]][tt11655566]
 [![The Gray Man][tt1649418_img]][tt1649418]
 [![Nyad][tt5302918_img]][tt5302918]
 [![Joker: Folie a Deux][tt11315808_img]][tt11315808]
@@ -48,6 +51,9 @@ Title: Movies
 [![I, Frankenstein][tt1418377_img]][tt1418377]
 [![The Legend of Hercules][tt1043726_img]][tt1043726]
 
+[tt6604188]: {filename}/media/2025-tron-ares.jpg
+[tt31036941]: {filename}/media/2025-jurassic-world-rebirth.jpg
+[tt11655566]: {filename}/media/2025-lilo-and-stitch.jpg
 [tt1649418_img]: {filename}/media/2022-the_gray_man.jpg
 [tt5302918_img]: {filename}/media/2023-nyad.jpg
 [tt11315808_img]: {filename}/media/2024-joker.jpg
@@ -94,6 +100,9 @@ Title: Movies
 [tt1418377_img]: {filename}/media/2014-i,_frankenstein.jpg
 [tt1043726_img]: {filename}/media/2014-the_legend_of_hercules.jpg
 
+[tt6604188]: https://www.imdb.com/title/tt6604188/
+[tt31036941]: https://www.imdb.com/title/tt31036941/
+[tt11655566]: https://www.imdb.com/title/tt11655566/
 [tt1649418]: http://www.imdb.com/title/tt1649418
 [tt5302918]: http://www.imdb.com/title/tt5302918
 [tt11315808]: http://www.imdb.com/title/tt11315808
